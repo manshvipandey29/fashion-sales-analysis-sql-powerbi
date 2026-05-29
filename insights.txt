@@ -1,0 +1,9 @@
+1. TODAY DEAL is the highest-selling brand.
+
+2. Average selling price is approximately 588.
+
+3. Maximum product price is very high compared to average.
+
+4. Most products fall into low-to-medium price range.
+
+5. Dataset contains over 190,000 product records.
